@@ -11,4 +11,4 @@ Este es un ejercicio simple para [calcular las medidas de tendencia centra](http
 
 El libro [Learning statistics with R: a tutorial for psycology students and other beginners](http://compcogscisydney.org/learning-statistics-with-r) esta disponible de manera gratuita. Es un buen libro para estudiar estadística y aprender a usar R.
 
-La [**Dirección general de Epidemiología**] (https://www.gob.mx/salud/documentos/datos-abiertos-152127) tiene los datos de mejor calidad del planeta. El archivo **COVID19MEXICO** contiene datos decargados el día 22 de abril del 2026 con el fin de usarlos en ejercicios de aprendizaje de R y estadística básica. 
+**La [Dirección general de Epidemiología] (https://www.gob.mx/salud/documentos/datos-abiertos-152127)** tiene los datos abiertos de mejor calidad del planeta. El archivo **COVID19MEXICO** contiene datos decargados el día 22 de abril del 2026 con el fin de usarlos en ejercicios de aprendizaje de R y estadística básica. 
