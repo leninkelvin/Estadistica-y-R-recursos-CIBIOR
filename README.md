@@ -19,3 +19,5 @@ El libro [Learning statistics with R: a tutorial for psycology students and othe
 [R for Non-Programmers: A Guide for Social Scientists](https://bookdown.org/daniel_dauber_io/r4np_book/) es un libro gratis de análisis estadístico que cubre los casos de variables cualitativas y los métodos dentro de R.
 
 [Fundamentos de estadística descriptiva y R](https://statsandr.com/blog/descriptive-statistics-in-r/) un recurso básico de estadística descriptiva y R. 
+
+[UC Business Analytics R Programming Guide](https://uc-r.github.io/) recurso general y muy completo.
