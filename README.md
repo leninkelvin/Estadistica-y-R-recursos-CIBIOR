@@ -15,3 +15,7 @@ El libro [Learning statistics with R: a tutorial for psycology students and othe
 **La [Dirección general de Epidemiología](https://www.gob.mx/salud/documentos/datos-abiertos-152127)** tiene los datos abiertos de mejor calidad del planeta. El archivo **COVID19MEXICO** contiene datos decargados el día 22 de abril del 2026 con el fin de usarlos en ejercicios de aprendizaje de R y estadística básica. 
 
 [d de Cohen](https://rpsychologist.com/cohend/) interactiva. La d de Cohen es un indice del efecto del tamaño de población usado para estandarizar la diferencia entre dos medias. Incluye otros cuatro marcadores para interpretar el valor __d__. Esta [liga](https://statisticsbyjim.com/basics/cohens-d/) explica más detalles de la interpretación del valor __d__.
+
+[R for Non-Programmers: A Guide for Social Scientists](https://bookdown.org/daniel_dauber_io/r4np_book/) es un libro gratis de análisis estadístico que cubre los casos de variables cualitativas y los métodos dentro de R.
+
+[Fundamentos de estadística descriptiva y R](https://statsandr.com/blog/descriptive-statistics-in-r/) un recurso básico de estadística descriptiva y R. 
