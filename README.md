@@ -3,6 +3,7 @@
 En este repositorio se junta código, y links a material general para usar estadística en la investigación.
 
 El libro [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html) de Claude O. Wilke esta disponible como código abierto en GitHub. Es una guía indispensable para preparar gráficos. 
+La [galeria de gráficos de R](https://r-graph-gallery.com/) tiene muchos ejemplo de como crear gráficas en R; incluye datos y código.
 
 La libreria [cutpointr](https://github.com/Thie1e/cutpointr) es un paquete para calcular puntos de corte optimos usando ROC.
 Este es un ejercicio simple para [calcular las medidas de tendencia centra](https://statisticswithr.com/measures-of-central-tendency-in-r/) con R, incluye un dataset llamado dsCardamon.cvs (hay una copia en este repositorio así como del código).
