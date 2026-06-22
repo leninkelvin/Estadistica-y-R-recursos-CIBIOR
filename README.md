@@ -1,5 +1,9 @@
 # Estadistica-y-R-recursos-CIBIOR (Abril 2026)
 
+## Aqui esta un video de como descargar e instalar R y RSTUDIO en Windows. 
+
+[Descarga e instalación de R y Rstudio] (https://www.youtube.com/watch?v=vB1nFy1bg70)
+
 En este repositorio se junta código, y links a material general para usar estadística en la investigación.
 
 El libro [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html) de Claude O. Wilke esta disponible como código abierto en GitHub. Es una guía indispensable para preparar gráficos. 
