@@ -6,6 +6,8 @@ __Lenin Domínguez-Ramírez__ ha estado manejando datos: de cristalografía de p
 
 [Descarga e instalación de R y Rstudio](https://www.youtube.com/watch?v=vB1nFy1bg70)
 
+## Material de uso general ##
+
 En este repositorio se junta código, y links a material general para usar estadística en la investigación.
 
 El libro [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html) de Claude O. Wilke esta disponible como código abierto en GitHub. Es una guía indispensable para preparar gráficos. 
