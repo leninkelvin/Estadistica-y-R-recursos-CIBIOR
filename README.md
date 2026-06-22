@@ -1,4 +1,4 @@
-__Lenin Domínguez-Ramírez__ ha estado manejando datos: de cristalografía de proteínas, de docking molecular, de microscopia electrónica, dinámica molecular. En 2022, durante la pandemia de COVID19, empezó a usar R por su capacidad de manejar gigabites de datos correspondientes a millones de individuos. Con el presente taller se busca ofrecer una mirada inicial al uso de R/Rstudio desde como cargar un archivo, descripción estadística y resumen hasta producción de figuras de publicación. 
+__Lenin Domínguez-Ramírez__ ha estado manejando datos: de cristalografía de proteínas, de docking molecular, de microscopia electrónica, dinámica molecular. En 2022, durante la pandemia de **COVID19**, empezó a usar R por su capacidad de manejar gigabites de datos correspondientes a millones de individuos. Con el presente taller se busca ofrecer una mirada inicial al uso de R/Rstudio desde como cargar un archivo, descripción estadística y resumen hasta producción de figuras de publicación. 
 
 # Estadistica-y-R-recursos-CIBIOR (Abril 2026)
 
@@ -23,7 +23,7 @@ Este es un ejercicio simple para [calcular las medidas de tendencia centra](http
 
 El libro [Learning statistics with R: a tutorial for psycology students and other beginners](http://compcogscisydney.org/learning-statistics-with-r) esta disponible de manera gratuita. Es un buen libro para estudiar estadística y aprender a usar R.
 
-**La [Dirección general de Epidemiología](https://www.gob.mx/salud/documentos/datos-abiertos-152127)** tiene los datos abiertos de mejor calidad del planeta. El archivo **COVID19MEXICO** contiene datos decargados el día 22 de abril del 2026 con el fin de usarlos en ejercicios de aprendizaje de R y estadística básica. 
+La **[Dirección general de Epidemiología](https://www.gob.mx/salud/documentos/datos-abiertos-152127)** tiene los datos abiertos de mejor calidad del planeta. El archivo **COVID19MEXICO** contiene datos decargados el día 22 de abril del 2026 con el fin de usarlos en ejercicios de aprendizaje de R y estadística básica. 
 
 [d de Cohen](https://rpsychologist.com/cohend/) interactiva. La d de Cohen es un indice del efecto del tamaño de población usado para estandarizar la diferencia entre dos medias. Incluye otros cuatro marcadores para interpretar el valor __d__. Esta [liga](https://statisticsbyjim.com/basics/cohens-d/) explica más detalles de la interpretación del valor __d__.
 
