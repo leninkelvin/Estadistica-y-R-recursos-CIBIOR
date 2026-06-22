@@ -1,3 +1,5 @@
+__Lenin Domínguez-Ramírez__ ha estado manejando datos: de cristalografía de proteínas, de docking molecular, de microscopia electrónica, dinámica molecular. En 2022, durante la pandemia de COVID19, empezó a usar R por su capacidad de manejar gigabites de datos correspondientes a millones de individuos. Con el presente taller se busca ofrecer una mirada inicial al uso de R/Rstudio desde como cargar un archivo, descripción estadística y resumen hasta producción de figuras de publicación. 
+
 # Estadistica-y-R-recursos-CIBIOR (Abril 2026)
 
 ## Aqui esta un video de como descargar e instalar R y RSTUDIO en Windows. 
