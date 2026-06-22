@@ -6,7 +6,8 @@ __Lenin Domínguez-Ramírez__ ha estado manejando datos: de cristalografía de p
 
 [Descarga e instalación de R y Rstudio](https://www.youtube.com/watch?v=vB1nFy1bg70)
 
-## Material de uso general ##
+
+## Material de uso general.
 
 En este repositorio se junta código, y links a material general para usar estadística en la investigación.
 
