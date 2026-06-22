@@ -2,7 +2,7 @@
 
 ## Aqui esta un video de como descargar e instalar R y RSTUDIO en Windows. 
 
-[Descarga e instalación de R y Rstudio] (https://www.youtube.com/watch?v=vB1nFy1bg70)
+[Descarga e instalación de R y Rstudio](https://www.youtube.com/watch?v=vB1nFy1bg70)
 
 En este repositorio se junta código, y links a material general para usar estadística en la investigación.
 
