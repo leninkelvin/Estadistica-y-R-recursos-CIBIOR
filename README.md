@@ -8,7 +8,7 @@ __Lenin Domínguez-Ramírez__ ha estado manejando datos: de cristalografía de p
 
 ## Aqui esta un video de como empezar a usar R/Rstudio con datos abiertos. 
 
-[Como descargar datos abiertos, como cargarlos en R/Rstudio y unos análisis básicos]([https://www.youtube.com/watch?v=vB1nFy1bg70](https://youtu.be/C78flAE_FyI))
+[Como descargar datos abiertos, como cargarlos en R/Rstudio y unos análisis básicos](https://youtu.be/C78flAE_FyI)
 
 ## Material de uso general.
 
