@@ -10,6 +10,8 @@ __Lenin Domínguez-Ramírez__ ha estado manejando datos: de cristalografía de p
 
 [Como descargar datos abiertos, como cargarlos en R/Rstudio y unos análisis básicos](https://youtu.be/C78flAE_FyI)
 
+[LOS DATOS ABIERTOS DE CONAGUA](https://smn.conagua.gob.mx/es/climatologia/temperaturas-y-lluvias/resumenes-mensuales-de-temperaturas-y-lluvias)
+
 ## Material de uso general.
 
 En este repositorio se junta código, y links a material general para usar estadística en la investigación.
