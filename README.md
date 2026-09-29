@@ -43,6 +43,11 @@ La **[Dirección general de Epidemiología](https://www.gob.mx/salud/documentos/
 
 [Fundamentos de estadística descriptiva y R](https://statsandr.com/blog/descriptive-statistics-in-r/) un recurso básico de estadística descriptiva y R. 
 
+[Fundamentos de estadística descriptiva y R]([https://statsandr.com/blog/descriptive-statistics-in-r/](https://plotly.com/r/)) un recurso básico de estadística descriptiva y R. 
+
 [UC Business Analytics R Programming Guide](https://uc-r.github.io/) recurso general y muy completo.
 
 [Producing Automated Outputs (using R)](https://repository.ncrm.ac.uk/resources/online/all/producing_automated_outputs_r) En este sitio se muestra como automatizar la generación de tablas con estadística descriptiva y análisis de datos.
+
+[Ejemplos de uso de Plotly](https://plotly.com/r/)) La libreris Plotly permite generar gráficos interactivos. Este sitio proporciona ejemplos y los comandos para generarlos.
+
