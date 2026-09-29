@@ -15,9 +15,10 @@ getModes <- function(v, na.rm = TRUE) {
 
 # Mean, median, mode
 mean(BPTime01)
-[1] 139.4
+#[1] 139.4
 median((BPTime01))
-[1] 139
+#[1] 139
 getModes(BPTime01)
-[1] "142"
+#[1] "142"
 
+hist(BPTime01)
